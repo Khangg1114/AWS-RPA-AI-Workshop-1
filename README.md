@@ -15,12 +15,35 @@ Workshop này hướng dẫn từng bước cách tạo các bot RPA (Robotic Pr
 - Python/Node.js
 - Hugo (documentation)
 
-## Cách sử dụng
-1. Clone repository này
-2. Làm theo hướng dẫn trong từng bước
-3. Deploy lên AWS account của bạn
+## Hướng dẫn cài đặt và chạy dự án
 
-## GitHub Pages
-Xem hướng dẫn chi tiết tại: [GitHub Pages](https://khangg1114.github.io/AWS-RPA-AI-Workshop-1/)
+### 1. Clone mã nguồn từ GitHub
 
-Phù hợp cho developers muốn học cách xây dựng giải pháp RPA với AWS và tích hợp AI vào quy trình tự động hóa.
+Mở terminal và chạy lệnh sau để sao chép mã nguồn về máy:
+
+```bash
+git clone https://github.com/Khangg1114/AWS-RPA-AI-Workshop-1.git
+cd AWS-RPA-AI-Workshop-1
+```
+
+### 2. Cài đặt Hugo
+
+Nếu bạn chưa cài đặt Hugo, hãy tải và cài đặt theo hướng dẫn tại [https://gohugo.io/getting-started/installing/](https://gohugo.io/getting-started/installing/).
+
+### 3. Build trang web với Hugo
+
+Chạy lệnh sau để build trang web:
+
+```bash
+hugo
+```
+
+### 4. Chạy trang web trên localhost
+
+Chạy lệnh sau để khởi động server Hugo:
+
+```bash
+hugo server
+```
+
+Sau đó, truy cập địa chỉ [http://localhost:1313](http://localhost:1313) trên trình duyệt để xem trang
