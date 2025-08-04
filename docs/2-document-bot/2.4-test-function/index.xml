@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Test Document Processing on Simple RPA Platform with AI on AWS</title>
-    <link>https://khangg1114.github.io/AWS-RPA-AI-Workshop-1/2-document-bot/2.4-test-function/</link>
-    <description>Recent content in Test Document Processing on Simple RPA Platform with AI on AWS</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://khangg1114.github.io/AWS-RPA-AI-Workshop-1/2-document-bot/2.4-test-function/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Test Document Processing on Simple RPA Platform with AI on AWS</title><link>https://khangg1114.github.io/AWS-RPA-AI-Workshop-1/2-document-bot/2.4-test-function/</link><description>Recent content in Test Document Processing on Simple RPA Platform with AI on AWS</description><generator>Hugo</generator><language>en</language><lastBuildDate/><atom:link href="https://khangg1114.github.io/AWS-RPA-AI-Workshop-1/2-document-bot/2.4-test-function/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
