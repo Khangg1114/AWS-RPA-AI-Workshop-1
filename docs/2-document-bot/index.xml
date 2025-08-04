@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Create Document Processing Bot on Simple RPA Platform with AI on AWS</title>
-    <link>/2-document-bot/</link>
+    <link>https://khangg1114.github.io/AWS-RPA-AI-Workshop-1/2-document-bot/</link>
     <description>Recent content in Create Document Processing Bot on Simple RPA Platform with AI on AWS</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="/2-document-bot/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://khangg1114.github.io/AWS-RPA-AI-Workshop-1/2-document-bot/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
