@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Configure Email Schedule on Simple RPA Platform with AI on AWS</title>
-    <link>//localhost:1313/3-email-bot/3.3-configure-schedule/</link>
+    <link>/3-email-bot/3.3-configure-schedule/</link>
     <description>Recent content in Configure Email Schedule on Simple RPA Platform with AI on AWS</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="//localhost:1313/3-email-bot/3.3-configure-schedule/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/3-email-bot/3.3-configure-schedule/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

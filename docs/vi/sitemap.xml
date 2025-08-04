@@ -2,249 +2,249 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/vi/</loc>
+    <loc>/vi/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/"
+                href="/vi/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/1-setup/</loc>
+    <loc>/vi/1-setup/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/1-setup/"
+                href="/1-setup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/1-setup/"
+                href="/vi/1-setup/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/1-setup/1.1-create-s3-bucket/</loc>
+    <loc>/vi/1-setup/1.1-create-s3-bucket/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/1-setup/1.1-create-s3-bucket/"
+                href="/1-setup/1.1-create-s3-bucket/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/1-setup/1.1-create-s3-bucket/"
+                href="/vi/1-setup/1.1-create-s3-bucket/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/1-setup/1.2-create-dynamodb/</loc>
+    <loc>/vi/1-setup/1.2-create-dynamodb/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/1-setup/1.2-create-dynamodb/"
+                href="/1-setup/1.2-create-dynamodb/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/1-setup/1.2-create-dynamodb/"
+                href="/vi/1-setup/1.2-create-dynamodb/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/1-setup/1.3-setup-ses/</loc>
+    <loc>/vi/1-setup/1.3-setup-ses/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/1-setup/1.3-setup-ses/"
+                href="/1-setup/1.3-setup-ses/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/1-setup/1.3-setup-ses/"
+                href="/vi/1-setup/1.3-setup-ses/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/1-setup/1.4-create-iam-role/</loc>
+    <loc>/vi/1-setup/1.4-create-iam-role/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/1-setup/1.4-create-iam-role/"
+                href="/1-setup/1.4-create-iam-role/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/1-setup/1.4-create-iam-role/"
+                href="/vi/1-setup/1.4-create-iam-role/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/2-document-bot/</loc>
+    <loc>/vi/2-document-bot/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/2-document-bot/"
+                href="/2-document-bot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/2-document-bot/"
+                href="/vi/2-document-bot/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/2-document-bot/2.1-create-lambda/</loc>
+    <loc>/vi/2-document-bot/2.1-create-lambda/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/2-document-bot/2.1-create-lambda/"
+                href="/2-document-bot/2.1-create-lambda/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/2-document-bot/2.1-create-lambda/"
+                href="/vi/2-document-bot/2.1-create-lambda/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/2-document-bot/2.2-add-code/</loc>
+    <loc>/vi/2-document-bot/2.2-add-code/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/2-document-bot/2.2-add-code/"
+                href="/2-document-bot/2.2-add-code/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/2-document-bot/2.2-add-code/"
+                href="/vi/2-document-bot/2.2-add-code/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/2-document-bot/2.3-configure-trigger/</loc>
+    <loc>/vi/2-document-bot/2.3-configure-trigger/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/2-document-bot/2.3-configure-trigger/"
+                href="/2-document-bot/2.3-configure-trigger/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/2-document-bot/2.3-configure-trigger/"
+                href="/vi/2-document-bot/2.3-configure-trigger/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/2-document-bot/2.4-test-function/</loc>
+    <loc>/vi/2-document-bot/2.4-test-function/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/2-document-bot/2.4-test-function/"
+                href="/2-document-bot/2.4-test-function/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/2-document-bot/2.4-test-function/"
+                href="/vi/2-document-bot/2.4-test-function/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/3-email-bot/</loc>
+    <loc>/vi/3-email-bot/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/3-email-bot/"
+                href="/3-email-bot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/3-email-bot/"
+                href="/vi/3-email-bot/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/3-email-bot/3.1-create-email-lambda/</loc>
+    <loc>/vi/3-email-bot/3.1-create-email-lambda/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/3-email-bot/3.1-create-email-lambda/"
+                href="/3-email-bot/3.1-create-email-lambda/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/3-email-bot/3.1-create-email-lambda/"
+                href="/vi/3-email-bot/3.1-create-email-lambda/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/3-email-bot/3.2-add-email-code/</loc>
+    <loc>/vi/3-email-bot/3.2-add-email-code/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/3-email-bot/3.2-add-email-code/"
+                href="/3-email-bot/3.2-add-email-code/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/3-email-bot/3.2-add-email-code/"
+                href="/vi/3-email-bot/3.2-add-email-code/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/3-email-bot/3.3-configure-schedule/</loc>
+    <loc>/vi/3-email-bot/3.3-configure-schedule/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/3-email-bot/3.3-configure-schedule/"
+                href="/3-email-bot/3.3-configure-schedule/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/3-email-bot/3.3-configure-schedule/"
+                href="/vi/3-email-bot/3.3-configure-schedule/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/3-email-bot/3.4-test-email/</loc>
+    <loc>/vi/3-email-bot/3.4-test-email/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/3-email-bot/3.4-test-email/"
+                href="/3-email-bot/3.4-test-email/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/3-email-bot/3.4-test-email/"
+                href="/vi/3-email-bot/3.4-test-email/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/4-cleanup/</loc>
+    <loc>/vi/4-cleanup/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/4-cleanup/"
+                href="/4-cleanup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/4-cleanup/"
+                href="/vi/4-cleanup/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/categories/</loc>
+    <loc>/vi/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/categories/"
+                href="/vi/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/tags/</loc>
+    <loc>/vi/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/tags/"
+                href="/vi/tags/"
                 />
   </url>
 </urlset>
