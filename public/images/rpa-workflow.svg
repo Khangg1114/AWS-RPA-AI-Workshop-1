@@ -1,0 +1,89 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="orange" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF9900;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF6600;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="blue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#232F3E;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1B2631;stop-opacity:1" />
+    </linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#232F3E"/>
+    </marker>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="400" fill="#F8F9FA"/>
+  
+  <!-- Title -->
+  <text x="400" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#232F3E">
+    RPA Platform Workflow
+  </text>
+  
+  <!-- Step 1: Document Upload -->
+  <rect x="50" y="80" width="120" height="60" rx="8" fill="url(#orange)" stroke="#E67E22" stroke-width="2"/>
+  <text x="110" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">📄 Upload</text>
+  <text x="110" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">S3 Bucket</text>
+  
+  <!-- Arrow 1 -->
+  <line x1="170" y1="110" x2="210" y2="110" stroke="#232F3E" stroke-width="2" marker-end="url(#arrow)"/>
+  
+  <!-- Step 2: AI Processing -->
+  <rect x="220" y="80" width="120" height="60" rx="8" fill="url(#blue)" stroke="#2C3E50" stroke-width="2"/>
+  <text x="280" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">🤖 Process</text>
+  <text x="280" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">Textract + Lambda</text>
+  
+  <!-- Arrow 2 -->
+  <line x1="340" y1="110" x2="380" y2="110" stroke="#232F3E" stroke-width="2" marker-end="url(#arrow)"/>
+  
+  <!-- Step 3: Data Storage -->
+  <rect x="390" y="80" width="120" height="60" rx="8" fill="url(#orange)" stroke="#E67E22" stroke-width="2"/>
+  <text x="450" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">💾 Store</text>
+  <text x="450" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">DynamoDB</text>
+  
+  <!-- Arrow 3 -->
+  <line x1="510" y1="110" x2="550" y2="110" stroke="#232F3E" stroke-width="2" marker-end="url(#arrow)"/>
+  
+  <!-- Step 4: Email Notification -->
+  <rect x="560" y="80" width="120" height="60" rx="8" fill="url(#blue)" stroke="#2C3E50" stroke-width="2"/>
+  <text x="620" y="105" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white">📧 Notify</text>
+  <text x="620" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="white">SES Email</text>
+  
+  <!-- Process Details -->
+  <rect x="50" y="180" width="630" height="180" rx="10" fill="white" stroke="#BDC3C7" stroke-width="1"/>
+  
+  <text x="365" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#232F3E">
+    Workshop Steps
+  </text>
+  
+  <!-- Step boxes -->
+  <rect x="70" y="220" width="140" height="80" rx="5" fill="#ECF0F1" stroke="#BDC3C7" stroke-width="1"/>
+  <text x="140" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2C3E50">1. Setup</text>
+  <text x="140" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495E">• S3 Bucket</text>
+  <text x="140" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495E">• DynamoDB</text>
+  <text x="140" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495E">• SES & IAM</text>
+  
+  <rect x="230" y="220" width="140" height="80" rx="5" fill="#ECF0F1" stroke="#BDC3C7" stroke-width="1"/>
+  <text x="300" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2C3E50">2. Document Bot</text>
+  <text x="300" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495E">• Lambda Function</text>
+  <text x="300" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495E">• Textract Integration</text>
+  <text x="300" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495E">• S3 Trigger</text>
+  
+  <rect x="390" y="220" width="140" height="80" rx="5" fill="#ECF0F1" stroke="#BDC3C7" stroke-width="1"/>
+  <text x="460" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2C3E50">3. Email Bot</text>
+  <text x="460" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495E">• Email Lambda</text>
+  <text x="460" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495E">• HTML Templates</text>
+  <text x="460" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495E">• Scheduling</text>
+  
+  <rect x="550" y="220" width="140" height="80" rx="5" fill="#ECF0F1" stroke="#BDC3C7" stroke-width="1"/>
+  <text x="620" y="240" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2C3E50">4. Cleanup</text>
+  <text x="620" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495E">• Delete Resources</text>
+  <text x="620" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495E">• Cost Management</text>
+  <text x="620" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#34495E">• Best Practices</text>
+  
+  <!-- AWS Services -->
+  <text x="50" y="380" font-family="Arial, sans-serif" font-size="11" fill="#7F8C8D">
+    AWS Services: Lambda • S3 • DynamoDB • Textract • SES • CloudWatch • IAM
+  </text>
+</svg>
